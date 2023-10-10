@@ -12,7 +12,7 @@ Files and code related to:
 
 ## Structure
 
-Each post has a dedicated folder with its relevant code inside.
+Each post has a dedicated folder with its relevant code and files inside.
 
 ## Usage of Materials
 
