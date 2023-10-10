@@ -1,10 +1,10 @@
 # Blog
-A repository to host source code related to my [blog](https://www.bencres.net/blog).
+A repository to host source code and files related to my [blog](https://www.bencres.net/blog).
 
 ## Contents
 
 Python, C++, C#, Vex
 
-## Organization
+## Structure
 
 Each post has a dedicated folder with its relevant code inside.
