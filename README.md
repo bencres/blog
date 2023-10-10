@@ -3,7 +3,12 @@ A repository to host source code and files related to my [blog](https://www.benc
 
 ## Contents
 
-Python, C++, C#, Vex
+Files and code related to: 
+- Houdini
+- Tools development
+- Shader development
+- Gameplay programming
+- Broadly 3D art
 
 ## Structure
 
