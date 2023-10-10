@@ -17,4 +17,4 @@ Each post has a dedicated folder with its relevant code inside.
 ## Usage of Materials
 
 All files in this repository are published under **educational**, **non-commerical** licenses. As such, commerical usage of any of these files is strictly prohibited. 
-Any other usage is fine. 
+Any other usage is fine; credit is appreciated but not required. 
